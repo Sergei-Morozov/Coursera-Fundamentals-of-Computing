@@ -40,3 +40,19 @@ Principles of Computing (`Part 1 <https://www.coursera.org/learn/principles-of-c
 **Week6** - `Zombie Apocalypse mini-project  <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Principles_of_Computing/week6/project6_Zombie.py>`_
 
 **Week7-8** - `Word Wrangler game  <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Principles_of_Computing/week7/project7_Wrangler.py>`_
+
+Principles of Computing (`Part 1 <https://www.coursera.org/learn/principles-of-computing-1/>`_) & (`Part 2 <https://www.coursera.org/learn/principles-of-computing-2/>`_)
+----------------------------------------------------------------------------
+**Week1** - `2048 game using Merge Algorithm <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Principles_of_Computing/week1/project1_2048_merge.py>`_
+
+**Week2** - `Guess the number  <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Principles_of_Computing/week2/project2_2048.py>`_
+
+**Week3** - `Monte Carlo Tic-Tac-Toe Player  <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Principles_of_Computing/week3/project3_MonteCarlo.py>`_
+
+Algorithmic Thinking (`Part 1 <https://www.coursera.org/learn/algorithmic-thinking-1/>`_) & (`Part 2 <https://www.coursera.org/learn/algorithmic-thinking-2/>`_)
+----------------------------------------------------------------------------
+**Week1** - `Introduction to Graphs <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Algorithmic_Thinking/week1/project1_Graphs.py>`_
+
+**Week2** - `Graphs traversal  <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Algorithmic_Thinking/week2/project2_BFS.py>`_
+
+**Week3** - `Introduction to clustering  <https://github.com/Sergei-Morozov/Coursera_Fundamentals-of-Computing/blob/master/Algorithmic_Thinking/week3/project3_Clusters.py>`_
